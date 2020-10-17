@@ -1,5 +1,5 @@
 #no needs
-tmp/
+/tmp/
 otherfile.old
 otherfile.backup
 Thumbs.db
