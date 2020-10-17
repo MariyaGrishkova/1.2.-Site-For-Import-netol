@@ -1,0 +1,6 @@
+#no needs
+tmp/
+otherfile.old
+otherfile.backup
+Thumbs.db
+.DS_Store
